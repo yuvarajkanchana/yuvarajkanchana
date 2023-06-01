@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm yuvaraj kanchana</h1>
 <h3 align="center">A passionate programmer</h3>
-<img align="left" alt="coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
+<img align="right" alt="coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
 - 🔭 I’m currently working on **undergraduate project**
 
