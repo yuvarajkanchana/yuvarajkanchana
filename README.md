@@ -3,7 +3,7 @@
 <h3 align="center">A passionate programmer</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
-- 🔭 I’m currently working on **undergraduate project**
+- 🔭 I’m currently working on **graduate project**
 
 - 🌱 I’m currently learning **Artificial intelligence**
 
